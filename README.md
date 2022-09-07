@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joniyed Bhuiyan</h1>
 <h3 align="center">A passionate Back-End developer from Bangladesh.</h3>
-<img align="center" atl="Coding" width="100%" height="200px" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+<img align="center" atl="Coding" width="100%" height="500px" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🔭 I’m currently working on **Nagalay.com**
 
