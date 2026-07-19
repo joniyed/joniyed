@@ -4,29 +4,31 @@
 
 ### 🚀 Backend Software Engineer | Java • Spring Boot • NestJS • AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&width=700&lines=Backend+Software+Engineer;Spring+Boot+Developer;NestJS+Developer;AI+%26+RAG+Engineer;Microservices+Enthusiast;Cloud+%26+DevOps+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Spring+Boot+Developer;NestJS+Developer;AI+%26+RAG+Engineer;Microservices+Architect;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 
 <p>
 Building scalable backend systems, AI-powered applications, and cloud-native architectures.
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
-![](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=joniyed&style=for-the-badge)
+![](https://img.shields.io/github/followers/joniyed?style=for-the-badge)
+![](https://img.shields.io/github/stars/joniyed?style=for-the-badge)
 
 </div>
 
 ---
 
+<img align="right" width="360" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="Coding">
+
 ## 👨‍💻 About Me
 
 - 💼 Backend Software Engineer with **5+ years** of experience
-- 🚀 Currently working on enterprise-grade backend systems
-- 🤖 Building AI-powered applications using **RAG & LLMs**
-- 🌱 Learning **Kubernetes**, **System Design**, and **Distributed Systems**
-- 💬 Ask me about **Java, Spring Boot, NestJS, Microservices, PostgreSQL, Docker**
-- 📫 Reach me at **joniyed.bhuiyan@gmail.com**
-- 🌍 Based in **Dhaka, Bangladesh**
+- 🚀 Passionate about building scalable backend systems
+- 🤖 Building AI-powered applications using **LLMs & RAG**
+- 🌱 Currently learning **Kubernetes, Distributed Systems & AI Agents**
+- 💬 Ask me about **Java, Spring Boot, NestJS, PostgreSQL, Docker & Microservices**
+- 📫 Email: **joniyed.bhuiyan@gmail.com**
+- 🌍 Location: **Dhaka, Bangladesh**
 
 ---
 
@@ -34,62 +36,59 @@ Building scalable backend systems, AI-powered applications, and cloud-native arc
 
 ## 🧠 Zaag AI
 
-AI-powered Customer Support Platform built with:
-
-- Spring Boot
-- NestJS
-- FastAPI
-- OpenSearch
-- Milvus
-- Memgraph
-- PostgreSQL
-- Docker
-- Gemini API
+AI-powered Customer Support Platform built with modern backend technologies.
 
 ### Highlights
 
 - ✅ Multi-source RAG Pipeline
 - ✅ Semantic Search
-- ✅ Vector Search
 - ✅ AI Chat Widget
+- ✅ Vector Search
 - ✅ Knowledge Base
 - ✅ Microservices Architecture
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- NestJS
+- FastAPI
+- PostgreSQL
+- OpenSearch
+- Milvus
+- Memgraph
+- Docker
+- Gemini API
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi" />
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### DevOps
+### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,githubactions"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,githubactions" />
 </p>
 
-### Cloud
-
-- DigitalOcean
-- Hetzner
-- Cloudflare
-
-### Also Worked With
+### Also Experienced With
 
 - Kafka
 - NATS
@@ -97,6 +96,9 @@ AI-powered Customer Support Platform built with:
 - OpenSearch
 - Milvus
 - Memgraph
+- Cloudflare
+- DigitalOcean
+- Hetzner
 
 ---
 
@@ -104,15 +106,19 @@ AI-powered Customer Support Platform built with:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joniyed&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joniyed&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=joniyed&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,7 +128,7 @@ AI-powered Customer Support Platform built with:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joniyed&theme=tokyo-night"/>
 
 </p>
 
@@ -132,7 +138,7 @@ AI-powered Customer Support Platform built with:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=joniyed&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -142,33 +148,49 @@ AI-powered Customer Support Platform built with:
 
 <p align="left">
 
-<a href="https://linkedin.com/in/joniyed-bhuiyan">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/joniyed-bhuiyan/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="mailto:joniyed.bhuiyan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/joniyed" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://stackoverflow.com/users/joniyed-bhuiyan">
-<img src="https://cdn.simpleicons.org/stackoverflow"/>
+<a href="https://gitlab.com/joniyed.bhuiyan" target="_blank">
+<img src="https://skillicons.dev/icons?i=gitlab" width="45"/>
 </a>
 
-<a href="https://gitlab.com/joniyed.bhuiyan">
-<img src="https://skillicons.dev/icons?i=gitlab"/>
+<a href="https://www.hackerrank.com/bhuiyan_joniyed" target="_blank">
+<img src="https://skillicons.dev/icons?i=hackerrank" width="45"/>
+</a>
+
+<a href="https://www.facebook.com/jbjoniyed7" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" width="45"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 📚 Currently Learning
 
-> *"Code is not just about solving today's problem—it's about building systems that scale for tomorrow."*
+- Kubernetes
+- AI Agents
+- MCP
+- Distributed Systems
+- Event-Driven Architecture
+- System Design
+
+---
+
+# 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
 ---
 
